@@ -29,6 +29,6 @@ Feel free to fork this project, make changes, and submit pull requests. Your con
 This project is open-source and available under the MIT License.
 
 ## Contact
-If you have any questions or feedback, please contact me at your-email@example.com.
+If you have any questions or feedback, please contact me at vishwanathan247@gmail.com
 
 Enjoy the game!
